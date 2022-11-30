@@ -1,4 +1,4 @@
-# EsercizioAngular2W10
+# S10L3 – Components II
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
 
